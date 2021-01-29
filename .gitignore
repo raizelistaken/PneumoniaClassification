@@ -130,3 +130,10 @@ dmypy.json
 
 work/
 chest_xray/
+CNN_two.h5
+CNN2.h5
+CNN3.h5
+CNN4.h5
+CNN.h5
+transferlearning.h5
+transferlearning/
