@@ -1,6 +1,6 @@
 # PneumoniaClassification
 
-![medicine](Users/Raizel/Desktop/Flatiron/phase1/Project4/PneumoniaClassification/codeine.jpg)
+![medicine](PneumoniaClassification/codeine.jpg)
 
 ## Pneumonia
 
