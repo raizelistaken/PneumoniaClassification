@@ -12,7 +12,7 @@ According to the MayoClinic (link above), "Pneumonia is an infection that inflam
 
 * [Kaggle Datasets](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
-[RadiologyInfo](https://www.radiologyinfo.org/en/info.cfm?pg=pneumonia) says a radiologist will look for white spots in the lungs that identify an infection.
+[RadiologyInfo](https://www.radiologyinfo.org/en/info.cfm?pg=pneumonia) says a radiologist will look for white spots in the lungs to identify an infection.
 ![chest_xrays](images/chest_xrays.png)
 
 ### Methods
