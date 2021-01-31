@@ -6,13 +6,13 @@
 
 * [Pneumonia_MayoClinic](https://www.mayoclinic.org/diseases-conditions/pneumonia/symptoms-causes/syc-20354204#:~:text=Pneumonia%20is%20an%20infection%20that,and%20fungi%2C%20can%20cause%20pneumonia.)
 
-According to the MayoClinic (link above), "Pneumonia is an infection that inflames the air sacs in one or both lungs." People with Pneumonia experience caughing, extreme phlegm, fever, difficulty breathing, and chills. Pneumonia, like many other illness, is very uncomfortable. That's why neural networks models are used to classify an image of a lung without Pneumonia compared to the image of a Pneumonia patients lung. This way the doctor can learn more about the disease to correctly classify patients as having Pneumonia or not having Pneumonia. [RadiologyInfo](https://www.radiologyinfo.org/en/info.cfm?pg=pneumonia) says a radiologist will look for white spots in the lungs that identify an infection.
+According to the MayoClinic (link above), "Pneumonia is an infection that inflames the air sacs in one or both lungs." People with Pneumonia experience caughing, extreme phlegm, fever, difficulty breathing, and chills. Pneumonia, like many other illness, is very uncomfortable. That's why neural networks models are used to classify an image of a lung without Pneumonia compared to the image of a Pneumonia patients lung. This way the doctor can learn more about the disease to correctly classify patients as having Pneumonia or not having Pneumonia. 
 
 ### Data
 
 * [Kaggle Datasets](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
-
+[RadiologyInfo](https://www.radiologyinfo.org/en/info.cfm?pg=pneumonia) says a radiologist will look for white spots in the lungs that identify an infection.
 ![chest_xrays](images/chest_xrays.png)
 
 ### Methods
@@ -21,8 +21,10 @@ According to the MayoClinic (link above), "Pneumonia is an infection that inflam
 
 ![model2](images/model2cm.png)
 
+Model 3 has 112 true normal images, 379 true pneumonia images, 11 false negatives (patient has pneumonia and the model didn't catch it), and 122 false positives (patient does not have pneumonia but the model says they are ill).
 ![model3](images/model3cm.png)
 
+Model 4 has 113 true normal images, 384 true pneumonia images, 6 false negatives (patient has pneumonia and the model didn't catch it), and 121 false positives (patient does not have pneumonia but the model says they are ill). This is the strongest model, but far from perfect.
 ![model4](images/model4cm.png)
 
 ![model5](images/model5cm.png)
