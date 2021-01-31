@@ -19,6 +19,6 @@ According to the MayoClinic (link above), "Pneumonia is an infection that inflam
 
 
 
-## Summary
+## Conclusion and Recommendation
 
 
