@@ -19,6 +19,7 @@ According to the MayoClinic (link above), "Pneumonia is an infection that inflam
 
 ![model1](images/model1cm.png)
 
+Model 2 has 112 true normal images, 362 true pneumonia images, 28 false negatives (patient has pneumonia and the model didn't catch it), and 122 false positives (patient does not have pneumonia but the model says they are ill).
 ![model2](images/model2cm.png)
 
 Model 3 has 112 true normal images, 379 true pneumonia images, 11 false negatives (patient has pneumonia and the model didn't catch it), and 122 false positives (patient does not have pneumonia but the model says they are ill).
