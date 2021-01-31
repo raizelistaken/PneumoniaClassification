@@ -20,16 +20,16 @@ According to the MayoClinic (link above), "Pneumonia is an infection that inflam
 This generic model has 78 true normal images, 246 true pneumonia images, 144 false negatives (patient has pneumonia and the model didn't catch it), and 156 false positives (patient does not have pneumonia but the model says they are ill). This model is very weak. There are a ton of false negatives and false positives.
 ![model1](images/model1cm.png)
 
-Model 2 has 112 true normal images, 362 true pneumonia images, 28 false negatives (patient has pneumonia and the model didn't catch it), and 122 false positives (patient does not have pneumonia but the model says they are ill).
+Model 2 has 177 true normal images, 350 true pneumonia images, 40 false negatives (patient has pneumonia and the model didn't catch it), and 57 false positives (patient does not have pneumonia but the model says they are ill).
 ![model2](images/model2cm.png)
 
-Model 3 has 112 true normal images, 379 true pneumonia images, 11 false negatives (patient has pneumonia and the model didn't catch it), and 122 false positives (patient does not have pneumonia but the model says they are ill).
+Model 3 has 190 true normal images, 354 true pneumonia images, 36 false negatives (patient has pneumonia and the model didn't catch it), and 44 false positives (patient does not have pneumonia but the model says they are ill).
 ![model3](images/model3cm.png)
 
 Model 4 has 113 true normal images, 384 true pneumonia images, 6 false negatives (patient has pneumonia and the model didn't catch it), and 121 false positives (patient does not have pneumonia but the model says they are ill). This is the strongest model, but far from perfect.
 ![model4](images/model4cm.png)
 
-Model 5 has only 3 true normal images. This could lead to inaccuracy. It also has 390 true pneumonia images, 0 false negatives, and 231 false positives (patient does not have pneumonia but the model says they are ill).
+Model 5 has 199 true normal images. It also has 323 true pneumonia images, 67 false negatives, and 35 false positives (patient does not have pneumonia but the model says they are ill).
 ![model5](images/model5cm.png)
 
 ## Conclusion and Recommendation
