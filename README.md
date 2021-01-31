@@ -20,6 +20,12 @@ According to the MayoClinic (link above), "Pneumonia is an infection that inflam
 
 ![model1](images/model1cm.png)
 
+![model2](images/model2cm.png)
+
+![model3](images/model3cm.png)
+
+![model4](images/model4cm.png)
+
 ## Conclusion and Recommendation
 
 
