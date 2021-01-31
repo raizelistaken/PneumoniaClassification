@@ -29,4 +29,8 @@ According to the MayoClinic (link above), "Pneumonia is an infection that inflam
 
 ## Conclusion and Recommendation
 
+In conclusion, model 4 was the most optimal model of the five. The Adam optimizer was the best optimizer for the models. Model four had fewest false negatives. It was a very close call with model three. The equation for recall is true positive over true positives and false negatives. High recall means there aren't many false negative. A false negative would be bad. Upon receiving a false negative for pneumonia one would go without treatment. A false positive could be bad because one might get treated for an illness they don't have. In this case I believe a false negative would be worse because a patient wouldn't get the care they need. 
+
+I recommend using a computer with appropriate hardware in order to run the most efficient model. My recommendations would be to add in many epochs, use a small learning rate, and the adam optimizer. Average pooling and max pooling both worked well. To incorporate the corner pixels of a picture add padding in to the model. The faster the model takes to foward and backward propogate, the faster one can collect the recall, precsion, and accuracy of every model. Thus, more time would be available to create models. To create the most accurate model largest sample size possible (more pneumonia images and images of lungs without pneumonia) would be needed.
+
 
