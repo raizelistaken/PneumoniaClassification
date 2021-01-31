@@ -17,7 +17,7 @@ According to the MayoClinic (link above), "Pneumonia is an infection that inflam
 
 ### Methods
 
-This generic model has 78 true normal images, 246 true pneumonia images, 144 false negatives (patient has pneumonia and the model didn't catch it), and 156 false positives (patient does not have pneumonia but the model says they are ill). This model is very weak. There are a ton of false negatives and false positives.
+This generic model has 78 true normal images, 246 true pneumonia images, 144 false negatives (patient has pneumonia and the model didn't catch it), and 156 false positives (patient does not have pneumonia but the model says they are ill). This model is very weak. There are a ton of false negatives and false positives. This model underfit the data.
 ![model1](images/model1cm.png)
 
 Model 2 has 177 true normal images, 350 true pneumonia images, 40 false negatives (patient has pneumonia and the model didn't catch it), and 57 false positives (patient does not have pneumonia but the model says they are ill).
