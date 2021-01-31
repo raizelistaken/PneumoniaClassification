@@ -12,11 +12,10 @@ According to the MayoClinic (link above), "Pneumonia is an infection that inflam
 
 * [Kaggle Datasets](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
-### The Data
 
-(insert chest xray pics hurr)
+![chest_xrays](images/chest_xrays.png)
 
-## Methods
+### Methods
 
 ![model1](images/model1cm.png)
 
@@ -25,6 +24,8 @@ According to the MayoClinic (link above), "Pneumonia is an infection that inflam
 ![model3](images/model3cm.png)
 
 ![model4](images/model4cm.png)
+
+![model5](images/model5cm.png)
 
 ## Conclusion and Recommendation
 
