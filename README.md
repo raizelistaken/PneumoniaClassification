@@ -14,9 +14,11 @@ According to the MayoClinic (link above), "Pneumonia is an infection that inflam
 
 ### The Data
 
+(insert chest xray pics hurr)
 
 ## Methods
 
+![model1](images/model1cm.png)
 
 ## Conclusion and Recommendation
 
