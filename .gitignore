@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-work/
+trial_work/
 chest_xray/
 CNN_two.h5
 CNN2.h5

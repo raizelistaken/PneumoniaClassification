@@ -1,6 +1,6 @@
 # PneumoniaClassification
 
-![medicine](codeine.jpg)
+![medicine](images/codeine.jpg)
 
 ## Pneumonia
 
