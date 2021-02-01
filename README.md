@@ -18,7 +18,6 @@ According to the MayoClinic (link above), "Pneumonia is an infection that inflam
 ### Methods
 
 Models
-
 - Feedforward Neural Network
 - Convolutional Neural Network
 - InceptionV3
