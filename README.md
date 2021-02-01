@@ -17,6 +17,12 @@ According to the MayoClinic (link above), "Pneumonia is an infection that inflam
 
 ### Methods
 
+Models
+
+- Feedforward Neural Network
+- Convolutional Neural Network
+- InceptionV3
+
 This generic model has 78 true normal images, 246 true pneumonia images, 144 false negatives (patient's pneumonia will go undiagnosed), and 156 false positives (patient does not have pneumonia but the model says they do). This model is very weak. There are a ton of false negatives and false positives. This model underfit the data.
 ![model1](images/model1cm.png)
 
